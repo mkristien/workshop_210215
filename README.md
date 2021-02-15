@@ -9,6 +9,13 @@ Kde bolo, tam bolo.
 =======
 novy riadok
 Pridavam novy riadok.
+<<<<<<< Updated upstream
+=======
+Kde bolo, tam bolo.
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 
 <<<<<<< Updated upstream
 Pridavam novy riadok.
