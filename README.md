@@ -7,6 +7,13 @@ Tento workshop sa uskutočnil 15. februára 2021.
 
 novy riadok
 Pridavam novy riadok.
+<<<<<<< Updated upstream
+=======
+Kde bolo, tam bolo.
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 
 <<<<<<< Updated upstream
 Pridavam novy riadok.
