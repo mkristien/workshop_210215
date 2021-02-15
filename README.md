@@ -4,4 +4,4 @@ Dnes sme sa naucili základy používania gitu.
 
 Tento workshop sa uskutočnil 15. februára 2021.
 
-novy riadok
+Pridavam novy riadok.
