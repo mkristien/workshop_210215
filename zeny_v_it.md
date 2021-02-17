@@ -6,6 +6,12 @@ Dokument inspirovany wikipedia strankou [Zeny v IT](https://en.wikipedia.org/wik
 
 ### 1700s
 
+### 1800s
+
+#### Ada Lovelace
+
+[Augusta Ada King, Countess of Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She is believed by some to be the first to recognise that the machine had applications beyond pure calculation, and to have published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first to recognise the full potential of computers and as one of the first computer programmers.
+Her educational and social exploits brought her into contact with scientists such as Andrew Crosse, Charles Babbage, Sir David Brewster, Charles Wheatstone, Michael Faraday and the author Charles Dickens, contacts which she used to further her education. Ada described her approach as "poetical science" and herself as an "Analyst (& Metaphysician)".
 
 ### 1960s
 
