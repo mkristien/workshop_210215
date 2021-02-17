@@ -21,5 +21,5 @@ On November 22, 2016, Hamilton received the Presidential Medal of Freedom from p
 
 
 ## Autorky dokumentu
-Adriana Nagyova
+Adriana Nagyova\
 Zuzana Butasova
