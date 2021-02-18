@@ -5,7 +5,7 @@ Dokument inspirovany wikipedia strankou [Zeny v IT](https://en.wikipedia.org/wik
 ## Obdobia v historii
 
 ### 1700s
-
+[Nicole-Reine Lepaute](https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute) (née Étable de la Briere; also known as Hartense Lepaute or Hortense Lepaute), (5 January 1723 – 6 December 1788) was a French astronomer and mathematician. Lepaute predicted the return of Halley's Comet by calculating the timing of a solar eclipse and constructing a group of catalogs for the stars. 
 ### 1800s
 
 #### Ada Lovelace
@@ -30,3 +30,4 @@ On November 22, 2016, Hamilton received the Presidential Medal of Freedom from p
 Adriana Nagyova\
 Zuzana Butasova
 Tatiana Harcinikova
+Silvia Kavčák
