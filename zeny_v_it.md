@@ -6,12 +6,26 @@ Dokument inspirovany wikipedia strankou [Zeny v IT](https://en.wikipedia.org/wik
 
 ### 1700s
 [Nicole-Reine Lepaute](https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute) (née Étable de la Briere; also known as Hartense Lepaute or Hortense Lepaute), (5 January 1723 – 6 December 1788) was a French astronomer and mathematician. Lepaute predicted the return of Halley's Comet by calculating the timing of a solar eclipse and constructing a group of catalogs for the stars. 
+
 ### 1800s
 
 #### Ada Lovelace
 
 [Augusta Ada King, Countess of Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She is believed by some to be the first to recognise that the machine had applications beyond pure calculation, and to have published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first to recognise the full potential of computers and as one of the first computer programmers.
 Her educational and social exploits brought her into contact with scientists such as Andrew Crosse, Charles Babbage, Sir David Brewster, Charles Wheatstone, Michael Faraday and the author Charles Dickens, contacts which she used to further her education. Ada described her approach as "poetical science" and herself as an "Analyst (& Metaphysician)".
+
+### 1920s
+
+#### George Snedecor
+
+In the early 1920s, Iowa State College, professor George Snedecor worked to improve the school's science and engineering departments, experimenting with new punch-card machines and calculators.[35] Snedecor also worked with human calculators most of them women, including Mary Clem.[36] Clem coined the term "zero check" to help identify errors in calculations.[36] The computing lab, run by Clem, became one of the most powerful computing facilities of the time.[36][37]
+
+### 1950s
+
+####  Katherine Johnson
+
+Creola Katherine Johnson (née Coleman; August 26, 1918 – February 24, 2020) was an American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.[1] During her 35-year career at NASA and its predecessor, she earned a reputation for mastering complex manual calculations and helped pioneer the use of computers to perform the tasks. The space agency noted her "historical role as one of the first African-American women to work as a NASA scientist". ohnson's work included calculating trajectories, launch windows, and emergency return paths for Project Mercury spaceflights, including those for astronauts Alan Shepard, the first American in space, and John Glenn, the first American in orbit, and rendezvous paths for the Apollo Lunar Module and command module on flights to the Moon. Her calculations were also essential to the beginning of the Space Shuttle program, and she worked on plans for a mission to Mars.
+In 2015, President Barack Obama awarded Johnson the Presidential Medal of Freedom. In 2016, she was presented with the Silver Snoopy Award by NASA astronaut Leland D. Melvin and a NASA Group Achievement Award. She was portrayed by Taraji P. Henson as a lead character in the 2016 film Hidden Figures. In 2019, Johnson was awarded the Congressional Gold Medal.
 
 ### 1960s
 
@@ -45,9 +59,6 @@ Tatiana Harcinikova
 Silvia Kavčák
 Mariana Chnapkova
 Karin Vojcikova
-
-### 1920s
-
-In the early 1920s, Iowa State College, professor George Snedecor worked to improve the school's science and engineering departments, experimenting with new punch-card machines and calculators.[35] Snedecor also worked with human calculators most of them women, including Mary Clem.[36] Clem coined the term "zero check" to help identify errors in calculations.[36] The computing lab, run by Clem, became one of the most powerful computing facilities of the time.[36][37]
+Natasa Spelicova
 
 -Erika-
