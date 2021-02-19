@@ -52,6 +52,12 @@ She was born in Cleveland, Ohio, and grew up in Chicago, Illinois. She received 
 [Brenda Laurel, Ph.D.](https://en.wikipedia.org/wiki/Brenda_Laurel) is a video game designer and researcher. She is an advocate for diversity and inclusiveness in video games, a "pioneer in developing virtual reality", a public speaker and an academic. She is also a board member of several companies and organizations. She was founder and chair of the Graduate Design Program at California College of the Arts (2006–2012). and of the Media Design graduate program at Art Center College of Design (2000–2006). She has worked for Atari, co-founded the game development firm Purple Moon, and served as an interaction design consultant for multiple companies including Sony Pictures, Apple, and Citibank. Her current work focuses on STE(A)M learning and the use of augmented reality in STE(A)M learning.
 
 
+
+### 2010s
+
+#### Coraline Ada Ehmke
+[Coraline Ada Ehmke](https://en.wikipedia.org/wiki/Coraline_Ada_Ehmke)  is a software developer and open source advocate[1] based in Chicago, Illinois. She began her career as a web developer in 1994 and has worked in a variety of industries, including engineering, consulting, education, advertising, healthcare, and software development infrastructure. She is known for her work in Ruby, and in 2016 earned the Ruby Hero award at RailsConf, a conference for Ruby on Rails developers. She is also known for her social justice work and activism, the creation of Contributor Covenant, and promoting the widespread adoption of codes of conduct for open source projects and communities.Ehmke began writing software in 1994, using the Perl programming language. She has since written software in ASP.NET and Java, before discovering Ruby in 2007. She is the author of 25 Ruby gems and has contributed to projects including Rspec and Ruby on Rails. She has spoken frequently at software conferences, and she has given keynote addresses at multiple technology conferences worldwide, including RubyFuza in Cape Town, South Africa and RubyConf Brazil. In 2013 at the Madison+ Ruby conference, Ehmke was among a group of people who announced the creation of a community for LGBT technologists called LGBTech. During this announcement, she also came out publicly as transgender.
+
 ## Autorky dokumentu
 Adriana Nagyova\
 Zuzana Butasova
@@ -61,3 +67,4 @@ Mariana Chnapkova
 Karin Vojcikova
 Natasa Spelicova
 -Erika-
+Jana Kajanova
