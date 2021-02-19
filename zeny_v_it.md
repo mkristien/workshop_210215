@@ -20,7 +20,12 @@ Her educational and social exploits brought her into contact with scientists suc
 Hamilton has published more than 130 papers, proceedings and reports about sixty projects and six major programs. She is one of the people credited with coining the term "**software engineering**".  
 On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions.  
 
-1970s
+### 1970s
+
+#### Pam Hardt-English
+
+Pam Hardt-English led a group to create a computer network they named Resource One and which was part of a group called Project One. Her idea to connect Bay Area bookstores, libraries and Project One was an early prototype of the Internet. To work on the project, Hardt-English obtained an expensive SDS-940 computer as a donation from TransAmerica Leasing Corporation in April 1972. They created an electronic library and housed it in a record store called Leopold's in Berkeley. This became the Community Memory database and was maintained by hacker, Jude Milhon. 
+After 1975, the SDS-940 computer was repurposed by Sherry Reson, Mya Shone, Chris Macie and Mary Janowitz to create a social services database  and a Social Services Referral Directory. Hard copies of the directory, printed out as a subscription service, were kept at city buildings and libraries.  The database was maintained and in use until 2009.
 
 ### Adele Goldberg
 
@@ -39,6 +44,7 @@ Zuzana Butasova
 Tatiana Harcinikova
 Silvia Kavčák
 Mariana Chnapkova
+Karin Vojcikova
 
 ### 1920s
 
