@@ -60,5 +60,4 @@ Silvia Kavčák
 Mariana Chnapkova
 Karin Vojcikova
 Natasa Spelicova
-
 -Erika-
