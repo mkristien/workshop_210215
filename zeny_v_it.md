@@ -31,3 +31,9 @@ Adriana Nagyova\
 Zuzana Butasova
 Tatiana Harcinikova
 Silvia Kavčák
+
+### 1920s
+
+In the early 1920s, Iowa State College, professor George Snedecor worked to improve the school's science and engineering departments, experimenting with new punch-card machines and calculators.[35] Snedecor also worked with human calculators most of them women, including Mary Clem.[36] Clem coined the term "zero check" to help identify errors in calculations.[36] The computing lab, run by Clem, became one of the most powerful computing facilities of the time.[36][37]
+
+-Erika-
