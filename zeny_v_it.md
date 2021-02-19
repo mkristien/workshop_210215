@@ -20,6 +20,13 @@ Her educational and social exploits brought her into contact with scientists suc
 Hamilton has published more than 130 papers, proceedings and reports about sixty projects and six major programs. She is one of the people credited with coining the term "**software engineering**".  
 On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions.  
 
+###1970s
+
+### Adele Goldberg
+
+Adele Goldberg ( https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist) ), (born July 22, 1945) is a computer scientist who participated in developing the programming language Smalltalk-80 and various concepts related to object-oriented programming while a researcher at the Xerox Palo Alto Research Center (PARC), in the 1970s.[1]
+She was born in Cleveland, Ohio, and grew up in Chicago, Illinois. She received her bachelor's degree in mathematics at the University of Michigan in Ann Arbor, and a master's degree in information science from the University of Chicago. She received her PhD in information science from the University of Chicago in 1973. She completed her dissertation, "Computer-Assisted Instruction: The Application of Theorem-proving to Adaptive Response Analysis," while working as a research associate at Stanford University.[1] She also served as a visiting researcher at Stanford University.[2]
+
 ### 1990s
 
 #### Brenda Laurel
