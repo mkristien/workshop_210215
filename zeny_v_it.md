@@ -60,11 +60,11 @@ She was born in Cleveland, Ohio, and grew up in Chicago, Illinois. She received 
 
 ## Autorky dokumentu
 Adriana Nagyova\
-Zuzana Butasova
-Tatiana Harcinikova
-Silvia Kavčák
-Mariana Chnapkova
-Karin Vojcikova
-Natasa Spelicova
--Erika-
-Jana Kajanova
+Zuzana Butasova\
+Tatiana Harcinikova\
+Silvia Kavčák\
+Mariana Chnapkova\
+Karin Vojcikova\
+Natasa Spelicova\
+-Erika-\
+Jana Kajanova\
