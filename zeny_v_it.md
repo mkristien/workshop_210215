@@ -20,7 +20,7 @@ Her educational and social exploits brought her into contact with scientists suc
 Hamilton has published more than 130 papers, proceedings and reports about sixty projects and six major programs. She is one of the people credited with coining the term "**software engineering**".  
 On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions.  
 
-###1970s
+1970s
 
 ### Adele Goldberg
 
@@ -38,6 +38,7 @@ Adriana Nagyova\
 Zuzana Butasova
 Tatiana Harcinikova
 Silvia Kavčák
+Mariana Chnapkova
 
 ### 1920s
 
